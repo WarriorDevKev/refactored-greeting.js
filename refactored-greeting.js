@@ -30,7 +30,7 @@ let joe = new Person("Joe", "Kate");
 
 console.log(kate.greet())
 
-// **************** ES6 Class Refactored (2nd attempt)
+// **************** ES6 Class Refactored (2nd attempt) <---- WORKS 100% 
 class Person {
     constructor(name) {
         this.name = name;
